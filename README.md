@@ -1,8 +1,8 @@
-#BadUSB Payload Encoder
+# BadUSB Payload Encoder
 
 This Python script is a BadUSB payload encoder designed to generate an encrypted payload for use with BadUSB devices. The encoded payload is based on the provided input file and additional parameters.
 
-##How to Use
+## How to Use
 
 - 1.Clone the Repository:
 
@@ -31,7 +31,7 @@ Example:
 ○ The generated payload will be saved in the payload.txt file in the same directory.
 ○ Check the console for the location of the generated payload.
 
-##Notes
+## Notes
 
 It is highly recommended to edit the payload to set delays correctly based on your use case.
 
