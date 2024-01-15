@@ -22,12 +22,12 @@ Example:
     python3 BadUSB-Payload-Encoder.py -adv test-script.ps1
 
 3.Follow the Prompts:
-        If advanced mode is enabled, you'll be prompted to provide additional information such as payload title, description, author, and version.
-        You can also choose to add a custom delay in the payload after opening PowerShell.
+        ● If advanced mode is enabled, you'll be prompted to provide additional information such as payload title, description, author, and version.
+        ● You can also choose to add a custom delay in the payload after opening PowerShell.
 
 4.Final Output:
-        The generated payload will be saved in the payload.txt file in the same directory.
-        Check the console for the location of the generated payload.
+        ● The generated payload will be saved in the payload.txt file in the same directory.
+        ● Check the console for the location of the generated payload.
 
 Notes
 
