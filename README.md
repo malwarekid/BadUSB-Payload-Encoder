@@ -11,7 +11,7 @@ How to Use
 
 2.Run the Script:
 
-    python3 BadUSB-Payload-Encoder.py [options] File_to_Encrypt
+    python3 BadUSB-Payload-Encoder.py test-script.ps1
 
 Options:
 
