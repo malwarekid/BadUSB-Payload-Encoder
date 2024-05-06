@@ -31,8 +31,14 @@ Example:
 - The generated payload will be saved in the payload.txt file in the same directory.
 - Check the console for the location of the generated payload.
 
+## Author
+
+[Malwarekid](https://github.com/malwarekid)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Notes
 
-It is highly recommended to edit the payload to set delays correctly based on your use case.
-
-Feel free to contribute, report issues, or provide feedback. Happy Hacking!
+Feel free to contribute, report issues, or provide feedback and dont forget to follow me on [Instagram](https://www.instagram.com/malwarekid/) and [github](https://github.com/malwarekid/) Happy Hacking!
