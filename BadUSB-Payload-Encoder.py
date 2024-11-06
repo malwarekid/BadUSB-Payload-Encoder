@@ -27,7 +27,7 @@ def generate_payload(file_path, adv_mode=False, payload_title="", payload_descri
             payload_file.write(f"REM Description: {payload_description}\n")
             payload_file.write(f"REM Author     : {payload_author}\n")
             payload_file.write(f"REM Version    : {payload_version}\n")
-        payload_file.write("REM Scriptkiddiee's Encrypted Payload Generator\n")
+        payload_file.write("REM Malwarekid's Encrypted Payload Generator\n")
         payload_file.write("REM - It is highly suggested you adjust the DELAYS for your use.\n")
 
         if adv_mode:
@@ -70,7 +70,7 @@ def generate_payload(file_path, adv_mode=False, payload_title="", payload_descri
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Scriptkidd's Encrypted Payload Generator")
+    parser = argparse.ArgumentParser(description="Malwarekid's Encrypted Payload Generator")
     parser.add_argument("file_path", metavar="File_to_Encrypt", type=str, help="Path to the file to encrypt")
     parser.add_argument("-adv", action="store_true", help="Enable advanced mode")
 
